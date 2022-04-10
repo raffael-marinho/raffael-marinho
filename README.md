@@ -1,4 +1,6 @@
-##Hello I'm Raffael Marinho, programming and technology student!
+## Hi, I'm Raffael Marinho, programming and technology student!
+
+## I am a person who loves to talk and learn new, things after all knowledge is never too much!
 
 
 <div>
