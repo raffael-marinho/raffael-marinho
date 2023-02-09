@@ -1,6 +1,6 @@
 ## Olá, sou Rafael Marinho.
 
-## ATENÇÂO meu perfil esta passando por atualizaçoes...
+## ATENÇÃO meu perfil esta passando por atualizações...
 
 
 <div>
