@@ -1,6 +1,6 @@
-## Hi, I'm Raffael Marinho, programming and technology student!
+## Olá, sou Rafael Marinho.
 
-## I am a person who loves to talk and learn new, things after all knowledge is never too much!
+## ATENÇÂO meu perfil esta passando por atualizaçoes...
 
 
 <div>
