@@ -1,8 +1,5 @@
 ## Olá, sou Rafael Marinho.
 
-## ATENÇÃO meu perfil esta passando por atualizações...
-
-
 <div>
   <a href="https://github.com/raffael-marinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffael-marinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
