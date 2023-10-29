@@ -32,5 +32,4 @@
 
 ##
 
-![snake gif](https://github.com/raffael-marinho/raffael-marinho/blob/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/raffael-marinho/raffael-marinho/blob/output/github-contribution-grid-snake.svg)
