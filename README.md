@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BA55D3&size=25&center=true&vCenter=true&width=1000&lines=%3C+Hi+%F0%9F%91%8B%2C+I´m+Raffa!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9400D3&size=25&center=true&vCenter=true&width=1000&lines=%3C+Hi+%F0%9F%91%8B%2C+I´m+Raffa!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg) 
 <p align='center'>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
