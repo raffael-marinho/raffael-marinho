@@ -1,5 +1,5 @@
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7CFC00&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Raffa!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
+<p align='center'>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
