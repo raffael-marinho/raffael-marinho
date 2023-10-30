@@ -3,7 +3,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffael-marinho&theme=midnight-purple&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffael-marinho&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
