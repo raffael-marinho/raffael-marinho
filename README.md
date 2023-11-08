@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9370DB&size=25&center=true&vCenter=true&width=1000&lines=%3C+Hi+%F0%9F%91%8B%2C+I´m+Raffa!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg) 
 <p align='center'>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From my experience in backend development with Node to my work in frontend development with ReactTS, I am enthusiastic about exploring new concepts and applying them to craft top-notch solutions. Presently, I am a mid-level full-stack developer specializing in web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raffael-marinho&theme=aura&mode=weekly" />
