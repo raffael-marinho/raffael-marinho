@@ -58,7 +58,6 @@
 
 
  
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/raffael-marinho/raffael-marinho/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">  
 </a>
   
   
